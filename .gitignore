@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+# Environment variables (ข้อมูลลับ)
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
